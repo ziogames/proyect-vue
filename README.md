@@ -1,4 +1,8 @@
-var app = new Vue({
+#encabezad del readme  
+cite cita de la pagina  
+*curciva*  
+**negrita**  
+```[javascript]var app = new Vue({
     el:'#app',
     data(){
         return{
@@ -13,4 +17,4 @@ var app = new Vue({
         
     }
 
-})
+})```[javascript]
